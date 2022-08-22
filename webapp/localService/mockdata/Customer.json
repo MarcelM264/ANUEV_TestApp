@@ -1,0 +1,22 @@
+[
+  {
+    "CustomerID": "100",
+    "CompanyName": "Samsung"
+  },
+  {
+    "CustomerID": "200",
+    "CompanyName": "Amazon"
+  },
+  {
+    "CustomerID": "300",
+    "CompanyName": "BMW"
+  },
+  {
+    "CustomerID": "400",
+    "CompanyName": "Hereaus"
+  },
+  {
+    "CustomerID": "500",
+    "CompanyName": "Vacuumschmelze"
+  }
+]
