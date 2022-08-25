@@ -1,3 +1,4 @@
+<!-- Arbeitnehmer Info -->
 <mvc:View
 	controllerName="sap.ui.demo.orderbrowser.controller.Detail"
 	xmlns="sap.m"
