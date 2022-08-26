@@ -10,12 +10,12 @@
 	"ShippedDate": "/Date(1474840800000)/",
 	"ShipVia": 6030,
 	"Freight": 7948.67,
-	"ShipName": "ExcellentParcel",
-	"ShipAddress": "Tottenham Court Road",
-	"ShipCity": "London",
-	"ShipRegion": "Greater London",
-	"ShipPostalCode": "N170AA",
-	"ShipCountry": "United Kingdom"
+	"ShipName": "Samsung",
+	"ShipAddress": "Hauptstr. 113",
+	"ShipCity": "Frankfurt am Main",
+	"ShipRegion": "Hessen",
+	"ShipPostalCode": "60320",
+	"ShipCountry": "Deutschland"
   },
   {
 	"OrderID": 7311,
@@ -27,12 +27,12 @@
 	"ShippedDate": "/Date(1480028400000)/",
 	"ShipVia": 3416,
 	"Freight": 7624.42,
-	"ShipName": "ExcellentParcel",
-	"ShipAddress": "Tottenham Court Road",
-	"ShipCity": "London",
-	"ShipRegion": "Greater London",
-	"ShipPostalCode": "N170AA",
-	"ShipCountry": "United Kingdom"
+	"ShipName": "Amazon",
+	"ShipAddress": "Lichtweg 111",
+	"ShipCity": "München",
+	"ShipRegion": "Bayern",
+	"ShipPostalCode": "80331",
+	"ShipCountry": "Deutschland"
   },
   {
 	"OrderID": 7375,
@@ -44,12 +44,12 @@
 	"ShippedDate": "/Date(1476396000000)/",
 	"ShipVia": 7532,
 	"Freight": 4019.56,
-	"ShipName": "ExcellentParcel",
-	"ShipAddress": "Tottenham Court Road",
-	"ShipCity": "London",
-	"ShipRegion": "Greater London",
-	"ShipPostalCode": "N170AA",
-	"ShipCountry": "United Kingdom"
+	"ShipName": "BMW",
+	"ShipAddress": "Neuer Weg 1",
+	"ShipCity": "Dingolfing",
+	"ShipRegion": "Bayern",
+	"ShipPostalCode": "84130",
+	"ShipCountry": "Deutschland"
   },
   {
 	"OrderID": 6189,
@@ -61,11 +61,11 @@
 	"ShippedDate": "/Date(1480460400000)/",
 	"ShipVia": 1923,
 	"Freight": 5422.26,
-	"ShipName": "1A Paket- und Lieferservice",
-	"ShipAddress": "Bismarckstra�e 5",
-	"ShipCity": "Berlin",
-	"ShipRegion": "Berlin",
-	"ShipPostalCode": "10179",
+	"ShipName": "Hereaus",
+	"ShipAddress": "Bismarckstrasse 5",
+	"ShipCity": "Hanau",
+	"ShipRegion": "Hessen",
+	"ShipPostalCode": "63540",
 	"ShipCountry": "Deutschland"
   },
   {
@@ -78,11 +78,11 @@
 	"ShippedDate": "/Date(1482447600000)/",
 	"ShipVia": 3059,
 	"Freight": 9130.44,
-	"ShipName": "1A Paket- und Lieferservice",
-	"ShipAddress": "Bismarckstra�e 5",
-	"ShipCity": "Berlin",
-	"ShipRegion": "Berlin",
-	"ShipPostalCode": "10179",
+	"ShipName": "Vacuumschmelze",
+	"ShipAddress": "Bismarckstrasse 5",
+	"ShipCity": "Hanau",
+	"ShipRegion": "Hessen",
+	"ShipPostalCode": "63540",
 	"ShipCountry": "Deutschland"
   },
   {
@@ -96,10 +96,10 @@
 	"ShipVia": 4728,
 	"Freight": 8237.06,
 	"ShipName": "1A Paket- und Lieferservice",
-	"ShipAddress": "Bismarckstra�e 5",
-	"ShipCity": "Berlin",
-	"ShipRegion": "Berlin",
-	"ShipPostalCode": "10179",
+	"ShipAddress": "New Lane 1",
+	"ShipCity": "London",
+	"ShipRegion": "Greater London",
+	"ShipPostalCode": "N170AA",
 	"ShipCountry": "Deutschland"
   },
   {

@@ -118,8 +118,14 @@
 
 						<!-- Anzeige in Tabellenzeile, unten links -->
 						<attributes>
-							<ObjectAttribute id="companyName" text="{Customer/CustomerID}" />
-							<ObjectAttribute title="{i18n>orderId}" text="{Order/OrderID}" />
+							<ObjectAttribute id="companyName" parts="{Customer/CustomerID" />
+							<ObjectAttribute text="{
+					parts: [
+						'i18n>commonItemTitle',
+						'OrderID'
+					],
+					formatter: 'jQuery.sap.formatMessage'
+				}" />
 							<!-- <ObjectAttribute title="{i18n>commonItemShipped}"
 								text="{= ${ShippedDate}
 									? ${ path: 'ShippedDate',
@@ -127,7 +133,10 @@
 										 formatOptions: { style: 'medium' } }
 									: ${i18n>commonItemNotYetShipped} }" /> -->
 						</attributes>
+						
+						
 					</ObjectListItem>
+					
 				</items>
 			</List>
 		</semantic:content>
